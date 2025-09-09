@@ -6,4 +6,4 @@ Download and build
 
 Concept based on Hancock https://github.com/JeremyAgost/Hancock
 
-I will add a release in a bit
+This is a work in progress and will change.
